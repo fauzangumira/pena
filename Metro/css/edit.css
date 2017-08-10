@@ -1,0 +1,25 @@
+.justify{
+ align : justify;
+}
+
+.bungkuskiri{
+	border-right: solid black 3px;
+	 width: 200px;
+  height: 400px;
+  float:left;
+}
+
+.m-kiri20{
+	margin-left: 2000px;
+}
+
+.tengah{
+height:500px;
+width:300px;
+border:1px solid;
+
+}
+
+.metro.padding_kenca{
+	padding:100px;
+}
