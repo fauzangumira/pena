@@ -1,5 +1,5 @@
 <?php
-//coba coba ajah
+//coba coba ajah apa aja
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
